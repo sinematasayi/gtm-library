@@ -1,6 +1,6 @@
 # GTM Library
 
-A hands-on library of GTM (go-to-market) engineering use cases, built with Claude Code over one year.
+A hands-on library of GTM (go-to-market) engineering use cases, built with Claude Code.
 
 Each use case ships:
 - a **case study** (problem → build → result → lesson)
@@ -9,6 +9,8 @@ Each use case ships:
 - a **post** about what I learned
 
 ## Use cases
+
+The list grows and changes as I build.
 
 | # | Use case | Status |
 |---|---|---|
