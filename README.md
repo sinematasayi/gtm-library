@@ -14,7 +14,7 @@ The list grows and changes as I build.
 
 | # | Use case | Status |
 |---|---|---|
-| 00 | [Foundation](use-cases/00-foundation/) | not started |
+| 00 | [Foundation](use-cases/00-foundation/) | in progress |
 | 01 | [ICP & account intelligence](use-cases/01-icp-account-intelligence/) | not started |
 | 02 | [GEO audit & AI visibility](use-cases/02-geo-audit-ai-visibility/) | not started |
 | 03 | [Conversion copy & storytelling](use-cases/03-conversion-copy-storytelling/) | not started |
