@@ -11,6 +11,7 @@
 ## One-page pitch
 
 ## Post
+- [Hallucination test — Nov 2026](post-hallucination-test.md): I tried to stump Claude with five questions it couldn't know the answers to
 
 ## Notes
 - [Hallucination test — Nov 2026](hallucination-test.md): 5 prompts, what Claude made up and 3 rules for client work
