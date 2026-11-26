@@ -1,0 +1,9 @@
+# Secrets: real API keys live only in .env on my laptop
+.env
+
+# Raw data (prospect lists, exports) never goes public
+/data
+*.csv
+
+# macOS junk file
+.DS_Store
